@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QhCSHVrzay756abPsIH9srHk6wrteY1lc3oSA2Qj1XyGNFjXAjseFwkQN+AbBx8K1jki5ZSWYRaTko38j8Yufw==",
+  "success": true,
+  "projectFilePath": "C:\\_projetos\\_aspnet-projects\\testes\\ConsoleWebScrapping\\ConsoleWebScrapping\\ConsoleWebScrapping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabri\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512",
+    "C:\\Users\\fabri\\.nuget\\packages\\htmlagilitypack\\1.11.43\\htmlagilitypack.1.11.43.nupkg.sha512"
+  ],
+  "logs": []
+}

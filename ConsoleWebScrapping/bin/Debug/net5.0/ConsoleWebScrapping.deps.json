@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsoleWebScrapping/1.0.0": {
+        "dependencies": {
+          "CsvHelper": "27.2.1",
+          "HtmlAgilityPack": "1.11.43"
+        },
+        "runtime": {
+          "ConsoleWebScrapping.dll": {}
+        }
+      },
+      "CsvHelper/27.2.1": {
+        "runtime": {
+          "lib/net5.0/CsvHelper.dll": {
+            "assemblyVersion": "27.0.0.0",
+            "fileVersion": "27.2.1.0"
+          }
+        }
+      },
+      "HtmlAgilityPack/1.11.43": {
+        "runtime": {
+          "lib/netstandard2.0/HtmlAgilityPack.dll": {
+            "assemblyVersion": "1.11.43.0",
+            "fileVersion": "1.11.43.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleWebScrapping/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CsvHelper/27.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uS5ix5hL9gL5taiAG//CScyJa8Fn1ZOh3FDhDvf4laboESFs84mCNropfp7PIt8xCkyQofljFpqu1B5UnSXjyA==",
+      "path": "csvhelper/27.2.1",
+      "hashPath": "csvhelper.27.2.1.nupkg.sha512"
+    },
+    "HtmlAgilityPack/1.11.43": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-C2gpt+S2tdFlQMOC3DK7rHZ8iv6EpDuIo4v0UTUSGX1F1bZ+NAQ3gp77HK8/JfCDszUm3Y2rHoyTp/TpO4KOIA==",
+      "path": "htmlagilitypack/1.11.43",
+      "hashPath": "htmlagilitypack.1.11.43.nupkg.sha512"
+    }
+  }
+}
